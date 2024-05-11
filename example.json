@@ -10,13 +10,13 @@
                 "child": {
                 "name": "Container",
                     "id": "cont1",
-                    "color": "#FF5FF2",
+                    "color": "#a32224",
                     "width": 250.0,
                     "height": 100.0,
                     "child": {
                         "name": "Text",
                         "id": "text1",
-                        "text": "My Love Nour",
+                        "text": "ANother Test Hello",
                         "color": "#005FF2",
                         "size": 20.0
                     } 
