@@ -1,0 +1,27 @@
+{
+    "splash_id": "splash",
+    "widgets": [
+        {
+            "name": "Scaffold",
+            "id": "splash",
+            "body": {
+                "name": "Center",
+                "id": "center1",
+                "child": {
+                    "name": "Container",
+                    "id": "cont1",
+                    "color": "#FF5FF2",
+                    "width": 250.0,
+                    "height": 300.0,
+                    "child": {
+                        "name": "Text",
+                        "id": "text1",
+                        "text": "My Text Widget",
+                        "color": "#005FF2",
+                        "size": 20.0
+                    }
+                }
+            }
+        }
+    ]
+}
